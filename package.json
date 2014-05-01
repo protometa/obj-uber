@@ -2,6 +2,10 @@
   "name": "obj-uber",
   "version": "1.0.3",
   "description": "Object inherits properties of another with optional namespacing. Useful for ad hoc, multiple, flat prototype inheritance.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protometa/obj-uber",
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
