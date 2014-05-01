@@ -1,0 +1,21 @@
+{
+  "name": "obj-uber",
+  "version": "1.0.3",
+  "description": "Object inherits properties of another with optional namespacing. Useful for ad hoc, multiple, flat prototype inheritance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee -c index.coffee"
+  },
+  "keywords": [
+    "uber",
+    "inheritance",
+    "multiple",
+    "ad hoc"
+  ],
+  "author": "Luke Nimtz",
+  "license": "ISC",
+  "devDependencies":{
+    "coffee-script": "~1.7.1"
+  }
+}
