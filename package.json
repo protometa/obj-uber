@@ -1,6 +1,6 @@
 {
   "name": "obj-uber",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Object inherits properties of another with optional namespacing. Useful for ad hoc, multiple, flat prototype inheritance.",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   ],
   "author": "Luke Nimtz",
   "license": "ISC",
-  "devDependencies":{
+  "devDependencies": {
     "coffee-script": "~1.7.1"
   }
 }
